@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+
+    defaultConfig {
+        applicationId "com.honeywell.barcodeexample"
+        minSdkVersion 16
+        targetSdkVersion 28
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            output.outputFileName =  "${variant.name}-${variant.versionName}.apk"
+        }
+    }
+
+    dependencies {
+        implementation project(":DataCollectionLib")
+    }
+}

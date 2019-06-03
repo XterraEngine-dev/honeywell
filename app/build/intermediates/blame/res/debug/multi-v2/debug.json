@@ -1,0 +1,93 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\desarrollador6\\Documents\\Luis CIfuentes\\20 SDK HONEYWELL\\BarcodeExample\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\desarrollador6\\Documents\\Luis CIfuentes\\20 SDK HONEYWELL\\BarcodeExample\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\desarrollador6\\Documents\\Luis CIfuentes\\20 SDK HONEYWELL\\BarcodeExample\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\desarrollador6\\Documents\\Luis CIfuentes\\20 SDK HONEYWELL\\BarcodeExample\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\desarrollador6\\Documents\\Luis CIfuentes\\20 SDK HONEYWELL\\BarcodeExample\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\desarrollador6\\Documents\\Luis CIfuentes\\20 SDK HONEYWELL\\BarcodeExample\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "15,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "810,1101",
+                        "endLines": "21,24",
+                        "endColumns": "12,12",
+                        "endOffsets": "1096,1256"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\desarrollador6\\Documents\\Luis CIfuentes\\20 SDK HONEYWELL\\BarcodeExample\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,5,6,7,8,9,14,13,4,10,11,15,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,160,204,270,330,408,733,691,109,470,565,776,642",
+                        "endColumns": "52,43,65,59,77,61,42,41,50,94,76,50,48",
+                        "endOffsets": "104,199,265,325,403,465,771,728,155,560,637,822,686"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,152,218,278,356,418,453,487,538,633,710,761",
+                        "endColumns": "52,43,65,59,77,61,34,33,50,94,76,50,48",
+                        "endOffsets": "103,147,213,273,351,413,448,482,533,628,705,756,805"
+                    }
+                }
+            ]
+        }
+    ]
+}
